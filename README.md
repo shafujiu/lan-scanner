@@ -1,5 +1,7 @@
 # LanScanner
 
+移除了 debug环境下面的日志的define， 这个日志由于没有实现release下面的导致release 环境编译不过
+
 Scan ip's into local network.
 
 | iOS  |  MacOS  |
